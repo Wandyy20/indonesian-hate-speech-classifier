@@ -1,0 +1,7 @@
+venv/
+final_model/
+results/
+logs/
+__pycache__/
+*.pyc
+raw-data/
